@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyArsitektur MVVM</string>
-    <string name="laki">Laki-Laki</string>
+    <string name="laki">Pria</string>
     <string name="wanita">Perempuan</string>
     <string name="submit">Submit</string>
     <string name="back">Back</string>
